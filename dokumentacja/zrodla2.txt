@@ -1,0 +1,17 @@
+Rumelhart, D.E., Hinton, G.E., Williams, R.J. (1986). Learning representations by back-propagating errors. Nature, 323, 533–536.
+
+Kingma, D.P., Ba, J. (2015). Adam: A Method for Stochastic Optimization. ICLR 2015. arXiv:1412.6980.
+
+Nair, V., Hinton, G.E. (2010). Rectified linear units improve restricted Boltzmann machines. ICML 2010.
+
+He, K., Zhang, X., Ren, S., Sun, J. (2015). Delving Deep into Rectifiers. ICCV 2015.
+
+Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., Salakhutdinov, R. (2014). Dropout: A Simple Way to Prevent Neural Networks from Overfitting. JMLR, 15(1), 1929–1958.
+
+Krizhevsky, A., Sutskever, I., Hinton, G.E. (2012). ImageNet Classification with Deep CNNs. NeurIPS 2012.
+
+LeCun, Y., Bengio, Y., Hinton, G. (2015). Deep learning. Nature, 521(7553), 436–444.
+
+Bishop, C.M. (2006). Pattern Recognition and Machine Learning. Springer.
+
+Cauchy, A. (1847). Méthode générale pour la résolution des systèmes d’équations. Comptes Rendus Acad. Sci.
